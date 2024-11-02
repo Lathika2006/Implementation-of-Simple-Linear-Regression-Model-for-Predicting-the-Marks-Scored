@@ -84,7 +84,6 @@ print("RMSE = ",rmse)
 
 ![Screenshot 2024-08-24 135403](https://github.com/user-attachments/assets/9095779b-3fa1-4674-a649-ac7a4041f72e)
 
-![image](https://github.com/user-attachments/assets/86b89dcd-466c-4d6e-9603-202b0f68af2f)
 
 
 
