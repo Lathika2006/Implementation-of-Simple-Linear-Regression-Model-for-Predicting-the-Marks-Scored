@@ -77,7 +77,6 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 
 ```
-
 ## Output:
 ## Training Set
 ![image](https://github.com/user-attachments/assets/058c9530-af8e-462e-abfa-1ee881194ba0)
