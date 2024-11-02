@@ -75,7 +75,6 @@ mae=mean_absolute_error(Y_test,Y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
-
 ```
 ## Output:
 ## Training Set
