@@ -84,19 +84,8 @@ print("RMSE = ",rmse)
 
 ![Screenshot 2024-08-24 135403](https://github.com/user-attachments/assets/9095779b-3fa1-4674-a649-ac7a4041f72e)
 
-![Screenshot 2024-08-24 135352](https://github.com/user-attachments/assets/c69b81ed-e356-4cff-8e97-292eab36bda2)
+![image](https://github.com/user-attachments/assets/86b89dcd-466c-4d6e-9603-202b0f68af2f)
 
-![Screenshot 2024-08-24 135333](https://github.com/user-attachments/assets/d83fc2bd-b302-4fcb-bcd2-c6c300085e86)
-
-![Screenshot 2024-08-24 135325](https://github.com/user-attachments/assets/53d861c2-7826-4e5b-868c-1c6a866c577f)
-
-![Screenshot 2024-08-24 135314](https://github.com/user-attachments/assets/fcda8e7b-2497-4f5b-a33f-ce2934999f8e)
-
-![Screenshot 2024-08-24 135303](https://github.com/user-attachments/assets/6fb0f4c9-32f1-473b-aa66-8d05f6eb0cdb)
-
-![Screenshot 2024-08-24 135249](https://github.com/user-attachments/assets/7643448b-1d3a-4ed6-93f9-6c4c58988280)
-
-![Screenshot 2024-08-24 135203](https://github.com/user-attachments/assets/8a18c164-7ca7-4c7b-9070-52d0984922bf)
 
 
 ## Result:
